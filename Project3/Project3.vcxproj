@@ -123,7 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bubble.cpp" />
+    <ClCompile Include="insert.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="quick.cpp" />
     <ClCompile Include="select.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

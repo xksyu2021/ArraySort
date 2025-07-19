@@ -1,5 +1,3 @@
-#include <iostream>
-
 void selectSort(float arr[], int length)
 {
  	for (int i = 0; i < length - 1; i++)
